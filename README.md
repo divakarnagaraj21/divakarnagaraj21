@@ -25,143 +25,147 @@
 
 ## 💻 Languages
 
-<p align="center">
+<table align="center">
+<tr>
 
-<a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank">
-  <img src="https://skillicons.dev/icons?i=java" width="60"/>
-</a>
-<br/>Java
+<td align="center">
+<a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
+<img src="https://skillicons.dev/icons?i=java" width="60"/>
+</a><br/>Java
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center">
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+<img src="https://skillicons.dev/icons?i=c" width="60"/>
+</a><br/>C
+</td>
 
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-  <img src="https://skillicons.dev/icons?i=c" width="60"/>
-</a>
-<br/>C
+<td align="center">
+<a href="https://en.wikipedia.org/wiki/C%2B%2B">
+<img src="https://skillicons.dev/icons?i=cpp" width="60"/>
+</a><br/>C++
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center">
+<a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
+<img src="https://skillicons.dev/icons?i=python" width="60"/>
+</a><br/>Python
+</td>
 
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-  <img src="https://skillicons.dev/icons?i=cpp" width="60"/>
-</a>
-<br/>C++
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank">
-  <img src="https://skillicons.dev/icons?i=python" width="60"/>
-</a>
-<br/>Python
-
-</p>
+</tr>
+</table>
 
 ---
 
 ## 🎨 Frontend
 
-<p align="center">
+<table align="center">
+<tr>
 
-<a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
-  <img src="https://skillicons.dev/icons?i=html" width="60"/>
-</a>
-<br/>HTML
+<td align="center">
+<a href="https://en.wikipedia.org/wiki/HTML">
+<img src="https://skillicons.dev/icons?i=html" width="60"/>
+</a><br/>HTML
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center">
+<a href="https://en.wikipedia.org/wiki/CSS">
+<img src="https://skillicons.dev/icons?i=css" width="60"/>
+</a><br/>CSS
+</td>
 
-<a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
-  <img src="https://skillicons.dev/icons?i=css" width="60"/>
-</a>
-<br/>CSS
+<td align="center">
+<a href="https://en.wikipedia.org/wiki/JavaScript">
+<img src="https://skillicons.dev/icons?i=js" width="60"/>
+</a><br/>JavaScript
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center">
+<a href="https://en.wikipedia.org/wiki/React_(software)">
+<img src="https://skillicons.dev/icons?i=react" width="60"/>
+</a><br/>React
+</td>
 
-<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
-  <img src="https://skillicons.dev/icons?i=js" width="60"/>
-</a>
-<br/>JavaScript
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://en.wikipedia.org/wiki/React_(software)" target="_blank">
-  <img src="https://skillicons.dev/icons?i=react" width="60"/>
-</a>
-<br/>React
-
-</p>
+</tr>
+</table>
 
 ---
 
 ## ⚙️ Backend
 
-<p align="center">
+<table align="center">
+<tr>
 
-<a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank">
-  <img src="https://skillicons.dev/icons?i=java" width="60"/>
-</a>
-<br/>Java
+<td align="center">
+<a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
+<img src="https://skillicons.dev/icons?i=java" width="60"/>
+</a><br/>Java
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center">
+<a href="https://en.wikipedia.org/wiki/Node.js">
+<img src="https://skillicons.dev/icons?i=nodejs" width="60"/>
+</a><br/>Node.js
+</td>
 
-<a href="https://en.wikipedia.org/wiki/Node.js" target="_blank">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="60"/>
-</a>
-<br/>Node.js
-
-</p>
+</tr>
+</table>
 
 ---
 
 ## 🗄️ Databases
 
-<p align="center">
+<table align="center">
+<tr>
 
-<a href="https://en.wikipedia.org/wiki/MySQL" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mysql" width="60"/>
-</a>
-<br/>MySQL
+<td align="center">
+<a href="https://en.wikipedia.org/wiki/MySQL">
+<img src="https://skillicons.dev/icons?i=mysql" width="60"/>
+</a><br/>MySQL
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center">
+<a href="https://en.wikipedia.org/wiki/MongoDB">
+<img src="https://skillicons.dev/icons?i=mongodb" width="60"/>
+</a><br/>MongoDB
+</td>
 
-<a href="https://en.wikipedia.org/wiki/MongoDB" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="60"/>
-</a>
-<br/>MongoDB
-
-</p>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tools & Designing
 
-<p align="center">
+<table align="center">
+<tr>
 
-<a href="https://en.wikipedia.org/wiki/Git" target="_blank">
-  <img src="https://skillicons.dev/icons?i=git" width="60"/>
-</a>
-<br/>Git
+<td align="center">
+<a href="https://en.wikipedia.org/wiki/Git">
+<img src="https://skillicons.dev/icons?i=git" width="60"/>
+</a><br/>Git
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center">
+<a href="https://en.wikipedia.org/wiki/GitHub">
+<img src="https://skillicons.dev/icons?i=github" width="60"/>
+</a><br/>GitHub
+</td>
 
-<a href="https://en.wikipedia.org/wiki/GitHub" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="60"/>
-</a>
-<br/>GitHub
+<td align="center">
+<a href="https://en.wikipedia.org/wiki/Figma_(software)">
+<img src="https://skillicons.dev/icons?i=figma" width="60"/>
+</a><br/>Figma
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center">
+<a href="https://en.wikipedia.org/wiki/Visual_Studio_Code">
+<img src="https://skillicons.dev/icons?i=vscode" width="60"/>
+</a><br/>VS Code
+</td>
 
-<a href="https://en.wikipedia.org/wiki/Figma_(software)" target="_blank">
-  <img src="https://skillicons.dev/icons?i=figma" width="60"/>
-</a>
-<br/>Figma
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vscode" width="60"/>
-</a>
-<br/>VS Code
-
-</p>
+</tr>
+</table>
 
 ---
 
@@ -183,21 +187,23 @@
 
 # 🌐 Connect With Me
 
-<p align="center">
+<table align="center">
+<tr>
 
-<a href="https://www.linkedin.com/in/divakarnagaraj" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
-</a>
-<br/>LinkedIn
+<td align="center">
+<a href="https://www.linkedin.com/in/divakarnagaraj">
+<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
+</a><br/>LinkedIn
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center">
+<a href="https://leetcode.com/u/divakar_21/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="60"/>
+</a><br/>LeetCode
+</td>
 
-<a href="https://leetcode.com/u/divakar_21/" target="_blank">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="60"/>
-</a>
-<br/>LeetCode
-
-</p>
+</tr>
+</table>
 
 ---
 
