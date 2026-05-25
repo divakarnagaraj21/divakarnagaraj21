@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Divakar 👋
 
-<!--
-**divakarnagaraj21/divakarnagaraj21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Software Engineer passionate about problem solving and building practical applications.
 
-Here are some ideas to get you started:
+## About Me
+- 💻 Skilled in Java and C++
+- 📚 Exploring Data Structures & Algorithms
+- 🌐 Learning Web Development
+- ⚡ Interested in Software Engineering and Web Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Java
+- C++
+- HTML
+- CSS
+- JavaScript
+- React
+- Git & GitHub
+
+## Currently Learning
+- DSA
+- Full-Stack Development
+- Backend Fundamentals
+
+## Goals
+- Build meaningful projects
+- Improve problem-solving skills
+- Contribute to real-world software development
