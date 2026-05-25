@@ -78,13 +78,26 @@
 
 ---
 
-## 🛠️ Tools
+## 🛠️ Tools & Designing
 
 <p align="center">
+
+<a href="https://en.wikipedia.org/wiki/Git" target="_blank">
   <img src="https://skillicons.dev/icons?i=git" width="55"/>
+</a>
+
+<a href="https://en.wikipedia.org/wiki/GitHub" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
+
+<a href="https://en.wikipedia.org/wiki/Figma_(software)" target="_blank">
   <img src="https://skillicons.dev/icons?i=figma" width="55"/>
+</a>
+
+<a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" target="_blank">
   <img src="https://skillicons.dev/icons?i=vscode" width="55"/>
+</a>
+
 </p>
 
 <p align="center">
@@ -112,13 +125,15 @@
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/divakarnagaraj">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
-  </a>
 
-  <a href="https://leetcode.com/u/divakar_21/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="60"/>
-  </a>
+<a href="https://www.linkedin.com/in/divakarnagaraj" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
+</a>
+
+<a href="https://leetcode.com/u/divakar_21/" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="60"/>
+</a>
+
 </p>
 
 <p align="center">
